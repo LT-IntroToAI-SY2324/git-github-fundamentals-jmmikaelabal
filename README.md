@@ -8,6 +8,7 @@ Please read through all of this in order to get an idea of what you will be doin
 * Make some sort of change to this file, commit that change, and push it to your cloned repository.
 * Create your profile README. Let the world know a little bit more about you! What are you interested in learning? What are you working on? What's your favorite hobby? Learn more about creating your profile README in the document, ["Managing Your Profile README"](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme).
 
+I am interested in learning about machine learning and focusing on how they use data and algorithms to imitate humans behavior and thoughts. I am not really working on anything at the moment in terms of computer science projects. My favorite hobby is softball, singing, and playing instruments (guitar and piano). 
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
